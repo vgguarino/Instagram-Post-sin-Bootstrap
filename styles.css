@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+.card{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    width: 28rem;
+    background-color: white;
+}
+.allbody{
+    margin: auto;
+    width: 200px;
+
+}
+
+.cardheader{
+    display:flex;
+    padding: 10px;
+    padding-left: 15px;
+}
+.cardheader1{
+    width: 100%;
+    display:flex;
+}
+.cardheader2{
+    flex-direction: column;
+    display: flex;
+}
+.Rigoberto{
+    margin-top: -1px;
+}
+.icon1{
+    padding-right: 6px;
+    padding-top: 7px;
+    
+}
+img{
+    width: 100%;
+}
+.cardbody{
+    padding: 10px;
+    padding-left: 15px;
+}
+.iconsbody{
+    display: flex;
+}
+.iconsbody1{
+    width: 100%;
+    padding-right: 2px;
+}
+.iconsbody2{
+    padding-right: 10px;
+}
+.cardtext{
+    margin-top: 25px;
+}
+
+.fa-heart{
+    margin-right: 4px;
+}
+.fa-comment{
+    margin-right: 4px;
+}
+.fa-paper-plane{
+    margin-right: 4px;
+}
